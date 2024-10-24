@@ -5,7 +5,13 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject></StartupObject>
+	<StartupObject>DSAPractice.ArrayPracticeCaller</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ArrayPractice\ArrayPractice.csproj" />
+    <ProjectReference Include="..\ArrayWithNumberAndStrings\ArrayWithNumberAndStrings.csproj" />
+    <ProjectReference Include="..\LinkedListPractice\LinkedListPractice.csproj" />
+  </ItemGroup>
 
 </Project>
