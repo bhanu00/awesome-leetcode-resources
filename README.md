@@ -19,7 +19,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list) - Done without Problems
   - [Dummy Node Technique](https://blog.algomaster.io/p/5d7a1368-7a0c-461a-93a9-732333ceb2a8)
   - [Reverse LinkedList](https://www.youtube.com/watch?v=D2vI2DNJGd8) - Done
-- [Queues](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04)
+- [Queues](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04) - Done, only thertical part not related resource links
 - [Stacks](https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67)
 - [Hash Tables](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
 - [Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
