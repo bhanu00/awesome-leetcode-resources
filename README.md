@@ -26,6 +26,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
 - [Recursion](https://leetcode.com/discuss/study-guide/1733447/become-master-in-recursion)
 - [Backtracking](https://medium.com/algorithms-and-leetcode/backtracking-e001561b9f28)
+  - [Backtracking Video](https://www.youtube.com/watch?v=DKCbsiDBN6c&list=PL-Y5_GYVx275I87vW3LUzEJ-g7TDgn0Ts)
 - [Trees](https://leetcode.com/discuss/study-guide/1820334/Become-Master-in-Tree)
 - [Tries](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
 - [Binary Search](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
