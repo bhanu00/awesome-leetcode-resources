@@ -12,18 +12,21 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 
 ## 📌 Fundamental Concepts
-- [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
+- [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729) - Done
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+- [Memory Allocation (Contiguous Vs. Non-Contiguous)]
 - [Bit Manipulation Techniques](https://blog.algomaster.io/p/c650df76-f978-46ee-a572-eb13c354905d)
 - [Sorting Algorithms](https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8)
-- [Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list)
+- [Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list) - Done without Problems
   - [Dummy Node Technique](https://blog.algomaster.io/p/5d7a1368-7a0c-461a-93a9-732333ceb2a8)
-- [Queues](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04)
+  - [Reverse LinkedList](https://www.youtube.com/watch?v=D2vI2DNJGd8) - Done
+- [Queues](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04) - Done, only thertical part not related resource links
 - [Stacks](https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67)
 - [Hash Tables](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
 - [Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
 - [Recursion](https://leetcode.com/discuss/study-guide/1733447/become-master-in-recursion)
 - [Backtracking](https://medium.com/algorithms-and-leetcode/backtracking-e001561b9f28)
+  - [Backtracking Video](https://www.youtube.com/watch?v=DKCbsiDBN6c&list=PL-Y5_GYVx275I87vW3LUzEJ-g7TDgn0Ts)
 - [Trees](https://leetcode.com/discuss/study-guide/1820334/Become-Master-in-Tree)
 - [Tries](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
 - [Binary Search](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
@@ -40,11 +43,12 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 ## 🚀 Patterns
 - [15 Leetcode Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
 - [20 DP Patterns](https://blog.algomaster.io/p/20-patterns-to-master-dynamic-programming)
-- [Prefix Sum Pattern](https://blog.algomaster.io/p/f96dd3de-c89c-428e-a88d-b1f751a42a57)
+- [Prefix Sum Pattern](https://www.youtube.com/watch?v=yuws7YK0Yng)
+- [Top 'K' Elements Pattern](https://www.youtube.com/watch?v=6_v6OoxvMOE)
+- [Fast and Slow Pointers Pattern](https://www.youtube.com/watch?v=b139yf7Ik-E)
 - [Two Pointers Pattern](https://blog.algomaster.io/p/69025a2e-b0d5-4705-8507-bba16c2691f1)
 - [Linked List In-place Reversal Pattern](https://blog.algomaster.io/p/7dcce8e9-beee-4fef-8874-7aae025031b1)
 - [Sliding Window Pattern](https://blog.algomaster.io/p/f4412a17-7a3a-4d0b-8e39-9ea8f429bf7c)
-- [Top 'K' Elements Pattern](https://blog.algomaster.io/p/322aac40-c4d0-4e54-980d-b22d9eeebca6)
 - [Monotonic Stack Pattern](https://blog.algomaster.io/p/5dabff21-11f4-470d-8e38-76ff07c63fdf)
 - [Overlapping Intervals Pattern](https://blog.algomaster.io/p/812e72f7-eced-4256-a4c1-00606ae50679)
 - [Backtracking Pattern](https://blog.algomaster.io/p/81d42ca2-600c-4252-aa33-a56462090048)
@@ -80,8 +84,8 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ## 📚 Books
-- [Data Structures And Algorithms Made Easy](https://www.amazon.com/Data-Structures-Algorithms-Made-Easy-ebook/dp/B0CBW278NC/)
-- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
+- [Data Structures And Algorithms Made Easy](https://amzn.to/40bsEUF)
+- [Cracking the Coding Interview](https://amzn.to/4e4HNdE)
 
 ## 🔎 Visualization
 - [VisuAlgo](https://visualgo.net/en)
