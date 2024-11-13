@@ -5,7 +5,7 @@
         /// <summary>
         /// Problem Statement: Given an array of integers numbers that is already sorted in non-decreasing order, 
         /// find two numbers such that they add up to a specific target number. Return the indices of the two numbers.
-        /// Two pointer technique
+        /// -- Two pointer technique
         /// </summary>
         /// <param name="numbers"></param>
         /// <returns></returns>
