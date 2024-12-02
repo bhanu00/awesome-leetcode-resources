@@ -105,6 +105,9 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 
 ## 💻 Must-Do Problems (Topic Wise)
+### Stack and Queue
+- [Stack that supports Min, Max, Avg, and Mode](https://leetcode.com/discuss/interview-question/385212/Google-or-Phone-Screen-or-Stack-that-supports-Min-Max-Avg-and-Mode)
+- [Current Max element in stack](https://www.prepbytes.com/blog/stacks/tracking-the-current-maximum-element-in-the-stack/)
 ### Linked List
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
