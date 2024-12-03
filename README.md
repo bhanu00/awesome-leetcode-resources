@@ -14,7 +14,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 ## 📌 Fundamental Concepts
 - [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729) - Done
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
-- [Memory Allocation (Contiguous Vs. Non-Contiguous)]
+- [Memory Allocation C#](https://www.youtube.com/watch?v=5OJRqkYbK-4)
 - [Bit Manipulation Techniques](https://blog.algomaster.io/p/c650df76-f978-46ee-a572-eb13c354905d)
 - [Sorting Algorithms](https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8)
 - [Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list) - Done without Problems
