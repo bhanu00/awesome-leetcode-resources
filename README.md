@@ -16,6 +16,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Memory Allocation C#](https://www.youtube.com/watch?v=5OJRqkYbK-4) - Done
 - [Bit Manipulation Techniques](https://blog.algomaster.io/p/c650df76-f978-46ee-a572-eb13c354905d)
+  - [Video explanation ](https://www.youtube.com/watch?v=qQd-ViW7bfk&list=PLgUwDviBIf0rnqh8QsJaHyIX7KUiaPUv7) 
 - [Sorting Algorithms](https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8)
 - [Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list) - Done without Problems
   - [Dummy Node Technique](https://blog.algomaster.io/p/5d7a1368-7a0c-461a-93a9-732333ceb2a8)
